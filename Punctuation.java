@@ -105,6 +105,8 @@
 	//a method to literally just print out the word??
 	public void printWords(String answer)
 	{
+		System.out.print("\n\n\n");
 		System.out.println(answer);
+		System.out.print("\n\n\n");
 	}
 }
